@@ -13,6 +13,8 @@ This project will show you how to use PySpark to analyze data.
 
 ## Others
 
+If you want to quick overview, I'll recommend you read my [Medium article](https://medium.com/@andresf.mesad/analyze-data-with-pyspark-ae6ea91584fe).
+
 Sometimes it's pretty difficul to install PySpark ion local, so you can use Databricks because there everything will be in place and you won't have to worry about the Cluster, nodes or any configuration.
 
 [Here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/269241463296902/3213733448712832/4532987408519436/latest.html) you'll find my Databrick's Notebook.
